@@ -1,0 +1,45 @@
+<HTML>
+<head>
+    <center><title>PSG COLLEGE </title></center>
+</head>
+<body>
+
+    <center><h2>PGS COLLEGE</h2></center>
+   <center><img src="C:\pgs college\istockphoto-2210570913-612x612.jpg"></center>
+    <!-- Link -->
+    <h3>1. Link</h3>
+    <a href="https://www.google.com">
+        Visit google
+    </a>
+
+    <!-- Audio -->
+    <h3>2. Audio</h3>
+    <audio controls>
+        <source src="C:\Users\TEMP.KCW.033\Downloads\Write it Right_Tricks of the Trade edited v2 (1).mp3">
+    </audio>
+
+    <!-- Video -->
+    <h3>3. Video</h3>
+    <video width="350" height="250" controls>
+        <source src="https://www.pexels.com/download/video/8342932/">
+     </video>
+
+    <!-- Ordered List -->
+    <h3>4. Ordered List</h3>
+    <ol>
+        <li>computer</li>
+        <li>Maths</li>
+        <li>Science</li>
+    </ol>
+
+    <!-- Unordered List -->
+    <h3>5. Unordered List</h3>
+    <ul>
+        <li>Arts</li>
+        <li>Engineering</li>
+        <li>Paramedical</li>
+    </ul>
+
+
+</body>
+</html>
